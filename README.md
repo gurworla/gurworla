@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=hyeokii%Github&fontColor=d6ace6&type=waving)
 
-### Hi there 👋 i'm frontend developer!
+### Hi there 👋 i'm frontend developer who is developing!
 
 ✨Platforms & Languages✨
 <div>
