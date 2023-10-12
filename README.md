@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-"#E34F26"?style=flat-square&logo=html5&logoColor=white"/></a>
 
 <!--
 **gurworla/gurworla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
