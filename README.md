@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hyeok%Github&fontColor=d6ace6&type=waving)
+![header](https://capsule-render.vercel.app/api?text=hyeokii%Github&fontColor=d6ace6&type=waving)
 
 ### Hi there 👋 i'm frontend developer!
 
