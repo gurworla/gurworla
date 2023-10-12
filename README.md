@@ -2,6 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 <!--
 **gurworla/gurworla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
