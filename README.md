@@ -3,7 +3,8 @@
 
 <img src="https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?&logo=react&logoColor=white" />
 
 <!--
 **gurworla/gurworla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
