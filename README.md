@@ -5,6 +5,8 @@
 
 ### Hi there 👋 i'm frontend developer who is developing!
 
+### <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /> - rlawogur0533@gmail.com
+
 ✨Platforms & Languages✨
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white"/>
