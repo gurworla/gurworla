@@ -9,19 +9,27 @@
 
 ✨Platforms & Languages✨
 <div>
+  ⭐⭐⭐⭐
+  <br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?&logo=typescript&logoColor=white" />
+
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic"/>
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+<br/>
+ ⭐⭐⭐
+ <br/><br/> 
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Scss-eee?style=flat-square&logo=sass"/>
   <br/>
 
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/-Scss-eee?style=flat-square&logo=sass"/>
+
+
 </div>
 
 <br>
